@@ -1,1 +1,1 @@
-DAY 1: https://nguyentrantienanh.github.io/HTML-CSS-JS/day1/index.html
+DAY 1: nguyentrantienanh.github.io/HTML-CSS-JS/day1/index.html
