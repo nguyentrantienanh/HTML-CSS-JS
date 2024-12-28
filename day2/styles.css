@@ -39,7 +39,7 @@ body {
 
 /* Làm các thẻ khác mờ khi hover vào một card */
 .container:hover .card:not(:hover) {
-  opacity: 0.2;
+  opacity: 0.55;
 }
 
 img {
