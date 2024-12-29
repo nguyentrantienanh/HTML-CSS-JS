@@ -57,6 +57,10 @@ body {
     color: white;
 }
 
+.modal__header i:hover{
+    color: rgb(195, 0, 0);
+}
+
 .modal__body{
     padding: 15px;
 }
@@ -79,6 +83,11 @@ body {
     border: none;
     outline: none;
     cursor: pointer;
+}
+
+.modal__footer button:hover{
+    color: rgb(195, 0, 0);
+    background:rgb(255, 157, 157) ;
 }
 .hide{
     display: none;
