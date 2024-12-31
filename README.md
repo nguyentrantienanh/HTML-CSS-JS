@@ -1,4 +1,4 @@
-Day 1: https://nguyentrantienanh.github.io/HTML-CSS-JS/day1/index.html <br/>
+Day 1: https://nguyentrantienanh.github.io/HTML-CSS-JS/day1/index.html target="_blank" <br/>
 Day 2: https://nguyentrantienanh.github.io/HTML-CSS-JS/day2/index.html <br/>
 Day 3: https://nguyentrantienanh.github.io/HTML-CSS-JS/day3/index.html <br/>
 Day 4: https://nguyentrantienanh.github.io/HTML-CSS-JS/day4/index.html <br/>
