@@ -42,6 +42,4 @@ search.addEventListener('keypress', function (e) {
     }
 })
 
-
-// Khởi tạo với thành phố 'Hà Nội'
 changeWeatherUI('nha trang');
