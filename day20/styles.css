@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --primary-color: #96ee1c
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+    background: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.typing-wrapper p{
+    color: var(--primary-color);
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 0 0 100px var(--primary-color);
+    animation: /*  typing 5s steps(36) infinite,*/ blink 1s infinite;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+@keyframes typing {
+    0%,100%{
+        width: 0%;
+    }
+    90%{
+        width: 100%;
+    }
+}
+
+@keyframes blink{
+    0%{
+        border-right: 10px solid var(--primary-color);
+    }
+    
+    50%{
+        border-right: 10px solid transparent;
+    }
+     100%{
+            border-: 10px solid var(--primary-color);
+     }
+} 
