@@ -36,8 +36,7 @@
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day26/index.html" target="_blank">Day 26</a></li>
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day27/index.html" target="_blank">Day 27</a></li>
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day28/index.html" target="_blank">Day 28</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day29/index.html" target="_blank">Day 29</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day30/index.html" target="_blank">Day 30</a></li>
+
     </ol>
     <hr>
     <h2>THE END!</h2>
