@@ -28,14 +28,6 @@
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day18/index.html" target="_blank">Day 18</a></li>
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day19/index.html" target="_blank">Day 19</a></li>
         <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day20/index.html" target="_blank">Day 20</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day21/index.html" target="_blank">Day 21</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day22/index.html" target="_blank">Day 22</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day23/index.html" target="_blank">Day 23</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day24/index.html" target="_blank">Day 24</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day25/index.html" target="_blank">Day 25</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day26/index.html" target="_blank">Day 26</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day27/index.html" target="_blank">Day 27</a></li>
-        <li><a href="https://nguyentrantienanh.github.io/HTML-CSS-JS/day28/index.html" target="_blank">Day 28</a></li>
     </ol>
     <hr>
     <h2>THE END!</h2>
